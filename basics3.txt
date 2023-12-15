@@ -1,0 +1,3 @@
+variable is a container for a value
+keyword to create variable --> let,const,var
+1- let 

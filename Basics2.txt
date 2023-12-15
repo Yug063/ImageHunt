@@ -1,0 +1,28 @@
+LANGUAGE BASICS
+------------------
+#variable declaration
+
+var x,y,z;
+x = 5;
+y=9;
+z=x+y;
+
+#javascript is dyanamically typed language 
+i.e, no use to declare data typ
+ddeclare ---
+java                   C++                       javascript
+int no = 12;           int no = 56;              var no=908;
+string name ="Yug";    string name = "aman";     var name="yug";
+
+#datatype
+1-primitive--> 
+a- boolean
+b- undefined (means defined he nhi hai yaar)
+3- string 
+4-number( int ,float,double)
+5- null
+2- userdefined -->
+a- variables and objects 
+
+
+
